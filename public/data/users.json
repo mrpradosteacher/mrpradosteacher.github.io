@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
     "nombre": "Lucia",
     "avatar": "https://cdn.shopify.com/s/files/1/0958/4824/products/COL07225_800x.jpg?v=1574962090"
@@ -12,5 +11,4 @@
       "nombre": "Lucas",
       "avatar": "https://www.grupobillingham.com/images/44/04/319029b77eb57736e857cfd2be20/610-460-3/muneco-de-peluche-personalizado.jpg"
     }
-  ]  
-}
+]  
