@@ -1,14 +1,32 @@
 [
-    {
-    "nombre": "Lucia",
-    "avatar": "https://cdn.shopify.com/s/files/1/0958/4824/products/COL07225_800x.jpg?v=1574962090"
-    },
-    {
-      "nombre": "Pepe",
-      "avatar": "https://www.mipeluche.es/4279-large_default/cerdito-de-peluche-bolita.jpg"
-    },
-    {
-      "nombre": "Lucas",
-      "avatar": "https://www.grupobillingham.com/images/44/04/319029b77eb57736e857cfd2be20/610-460-3/muneco-de-peluche-personalizado.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Lucia",
+    "avatar": "https://cdn.shopify.com/s/files/1/0958/4824/products/COL07225_800x.jpg?v=1574962090",
+    "rescue" : [
+      [1,1,1],
+      [1,2,2],
+      [2,0,1]
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pepe",
+    "avatar": "https://www.mipeluche.es/4279-large_default/cerdito-de-peluche-bolita.jpg",
+    "rescue" : [
+      [0,0,1],
+      [1,1,1],
+      [0,2,0]
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lucas",
+    "avatar": "https://www.grupobillingham.com/images/44/04/319029b77eb57736e857cfd2be20/610-460-3/muneco-de-peluche-personalizado.jpg",
+    "rescue" : [
+      [2,0,1],
+      [0,0,2],
+      [0,2,2]
+    ]
+  }
 ]  
