@@ -4,12 +4,23 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    redirect: { name: 'rescate' }
+    redirect: { name: 'rescue' }
   },
   {
-    path: '/rescate',
-    name: 'rescate',
-    component: () => import(/* webpackChunkName: "about" */ './views/Home.vue')
+    path: '/rescue',
+    component: () => import(/* webpackChunkName: "rescue" */ './views/rescue/Rescue.vue'),
+    children: [
+      { 
+        path: ':id', 
+        name: 'rescue-view',
+        component: () => import(/* webpackChunkName: "rescue-view" */ './views/rescue/RescueView.vue'),
+      },
+      { 
+        path: '', 
+        name: 'rescue',
+        component: () => import(/* webpackChunkName: "rescue-list" */ './views/rescue/RescueList.vue'),
+      },
+    ]
   },
   {
     path: '/about',

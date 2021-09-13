@@ -11,7 +11,7 @@
         {{ route.label }}
       </router-link>
     </div>
-    <div class="bg-gray-50 w-full p-8">
+    <div class="bg-gray-50 w-full p-10">
       <router-view />
     </div>
   </div>
@@ -25,7 +25,7 @@ export default {
     return {
       routes: [
         {
-          name: 'rescate',
+          name: 'rescue',
           label: 'Rescate'
         },
         {
@@ -34,6 +34,9 @@ export default {
         }
       ],
     }
+  },
+  mounted() {
+    this.$store.dispatch("getUsers");
   },
 }
 </script>
