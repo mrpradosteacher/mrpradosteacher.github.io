@@ -28,10 +28,14 @@ export default {
           name: 'rescue',
           label: 'Rescate'
         },
-        {
+       /* {
           name: 'about',
           label: 'Próximamente'
-        }
+        },
+        {
+          name: 'instagram',
+          label: 'Instagram'
+        }*/
       ],
     }
   },
