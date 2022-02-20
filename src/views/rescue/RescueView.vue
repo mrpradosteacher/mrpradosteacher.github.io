@@ -48,7 +48,23 @@ export default {
         [{arts: 3, castellano: 5, matematicas: 1}, {naturales: 5, valenciano: 5, ingles: 5}, {valores: 1, sociales: 1, valenciano: 2}],
         [{matematicas: 2, castellano: 3}, {arts: 4, valenciano: 2, sociales: 3}, {arts: 1, ingles: 1, naturales: 2}],
         [{sociales: 2, matematicas: 3, castellano: 1}, {ingles: 3, naturales: 3}, {valenciano: 5, valores: 5, matematicas: 5}]
-      ], [], [], [], []],
+      ], [
+        [{arts: 1, castellano: 3, matematicas: 1}, {naturales: 2, valenciano: 1, ingles: 3}, {valores: 2, sociales: 3, valenciano: 2}],
+        [{matematicas: 4, castellano: 5}, {arts: 5, valenciano: 2, sociales: 5}, {arts: 2, ingles: 2, naturales: 4}],
+        [{sociales: 1, matematicas: 5, castellano: 2}, {ingles: 1, naturales: 3}, {valenciano: 1, valores: 5, matematicas: 2}]
+      ], [
+        [{arts: 3, castellano: 1, matematicas: 1}, {naturales: 2, valenciano: 2, ingles: 3}, {valores: 5, sociales: 5, valenciano: 2}],
+        [{matematicas: 2, castellano: 5}, {arts: 1, valenciano: 5, sociales: 2}, {arts: 1, ingles: 2, naturales: 5}],
+        [{sociales: 2, matematicas: 3, castellano: 1}, {ingles: 5, naturales: 3}, {valenciano: 5, valores: 3, matematicas: 5}]
+      ], [
+        [{arts: 3, castellano: 1, matematicas: 1}, {naturales: 5, valenciano: 5, ingles: 3}, {valores: 1, sociales: 1, valenciano: 2}],
+        [{matematicas: 5, castellano: 5}, {arts: 4, valenciano: 2, sociales: 3}, {arts: 5, ingles: 5, naturales: 5}],
+        [{sociales: 5, matematicas: 4, castellano: 2}, {ingles: 1, naturales: 3}, {valenciano: 2, valores: 5, matematicas: 1}]
+      ], [
+        [{arts: 3, castellano: 3, matematicas: 5}, {naturales: 4, valenciano: 3, ingles: 2}, {valores: 1, sociales: 3, valenciano: 5}],
+        [{matematicas: 2, castellano: 3}, {arts: 4, valenciano: 4, sociales: 3}, {arts: 5, ingles: 5, naturales: 2}],
+        [{sociales: 5, matematicas: 3, castellano: 5}, {ingles: 3, naturales: 5}, {valenciano: 2, valores: 5, matematicas: 2}]
+      ]],
     }
   },
   computed: {
