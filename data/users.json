@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Lucia",
-    "avatar": "https://cdn.shopify.com/s/files/1/0958/4824/products/COL07225_800x.jpg?v=1574962090",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743459/myclassgame/8421372669_m6ozzq.jpg",
     "template": 0,
     "rescue" : [
       [0,0,0],
@@ -12,24 +12,212 @@
   },
   {
     "id": 2,
-    "name": "Pepe",
-    "avatar": "https://www.mipeluche.es/4279-large_default/cerdito-de-peluche-bolita.jpg",
-    "template": 0,
+    "name": "Quim",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743336/myclassgame/81wvVbNj3gL.__AC_SX300_SY300_QL70_ML2__ipthm9.jpg",
+    "template": 1,
     "rescue" : [
-      [0,0,1],
-      [1,1,1],
-      [0,2,0]
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
     ]
   },
   {
     "id": 3,
-    "name": "Lucas",
-    "avatar": "https://www.grupobillingham.com/images/44/04/319029b77eb57736e857cfd2be20/610-460-3/muneco-de-peluche-personalizado.jpg",
+    "name": "Freya",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744200/myclassgame/peluche-unicornio-multicolor_vsgmh0.jpg",
+    "template": 2,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Adrián",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743575/myclassgame/61EiOSw1_jL._AC_SY355__bbw4zd.jpg",
+    "template": 3,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mario",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744654/myclassgame/81UGTY6MWML._AC_SL1500__aiwbzn.jpg",
+    "template": 4,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jorge",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744293/myclassgame/81EnqzxRcUL._AC_SY606__hjlbqn.jpg",
     "template": 0,
     "rescue" : [
-      [2,0,1],
-      [0,0,2],
-      [0,2,2]
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 7,
+    "name": "David Castellón",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744799/myclassgame/81d7NDrFZ8L._AC_SY355__dromvr.jpg",
+    "template": 1,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 8,
+    "name": "David Tverd",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744858/myclassgame/3d38afa32645b8c6907d81424ca1db4c_vzkh2e.jpg",
+    "template": 2,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Celeste",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744567/myclassgame/images_td0yut.jpg",
+    "template": 3,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Eiden",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744747/myclassgame/D_NQ_NP_883500-MLC42114104355_062020-O_adugce.jpg",
+    "template": 4,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Lola",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743643/myclassgame/8809613356434_kc6xtj.jpg",
+    "template": 0,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Joel",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744131/myclassgame/Riusplay_Photoshop1_800x_la9rnn.png",
+    "template": 1,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Yulia",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744259/myclassgame/peluches-de-minecraft-abeja-1024x882_ydbkao.jpg",
+    "template": 2,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ainhoa",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743591/myclassgame/9b34ea3216cdc9c4e07242d15d870bbe_x1nofv.jpg",
+    "template": 3,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Johana",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744089/myclassgame/peluche-pokemon-eevee-30cm_kgdpk3.jpg",
+    "template": 4,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Guillem",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743586/myclassgame/Invictor_Photoshop1_500x_x8h3yf.png",
+    "template": 0,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Daryl",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637743175/myclassgame/9d0b38d10dfe305aa9c7b1ab756825ad--pusheen-cat-lovers_zw2kra.jpg",
+    "template": 1,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Marc",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744406/myclassgame/ks0id9lagbfokxinzcnj.jpg",
+    "template": 2,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jiasong",
+    "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744500/myclassgame/61RRYaJSmRL._AC_SX569__zavmvs.jpg",
+    "template": 3,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "id": 20,
+    "name": "María",
+    "avatar": "https://res.cloudinary.com/c4mcg1/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1645108118/myclassgame/61fi72wxllL._AC_SS450__ghewno.jpg",
+    "template": 4,
+    "rescue" : [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
     ]
   }
+
 ]  
