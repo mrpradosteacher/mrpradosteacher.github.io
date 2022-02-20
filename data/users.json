@@ -49,8 +49,8 @@
     "avatar": "https://res.cloudinary.com/c4mcg3/image/upload/q_auto,w_auto,h_180,f_auto,dpr_auto/v1637744654/myclassgame/81UGTY6MWML._AC_SL1500__aiwbzn.jpg",
     "template": 4,
     "rescue" : [
-      [0,0,0],
-      [0,0,0],
+      [1,0,0],
+      [0,2,1],
       [0,0,0]
     ]
   },
